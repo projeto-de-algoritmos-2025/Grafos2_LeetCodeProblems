@@ -11,11 +11,11 @@
 ## Sobre 
 Repositório destinado a resolução de alguns problemas do LeetCode envolvendo os conceitos estudados em sala de aula, contemplando 1 questão média e 2 difíceis.
 
-| Problema | Dificuldade | Resolução |
-| -- | -- | -- | -- |
+| Nome do Problema | Dificuldade | Resolução |
+| -- | -- | -- |
 | 1557. Minimum Number of Vertices to Reach All Nodes | Média |  |
-|  |  |  |
-|  |  |  | 
+|  | Difícil |  |
+|  | Difícil |  |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
